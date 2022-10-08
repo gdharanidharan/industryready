@@ -1,4 +1,4 @@
-## This is the Git tutorials by Dharanidharan
+## This is the new Git tutorials by Dharanidharan
 
 ## Second line added
 
